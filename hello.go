@@ -11,4 +11,9 @@ type Person struct {
 
 func main() {
 	fmt.Print("hello world")
+
+	for {
+		jello
+	}
+
 }
